@@ -36,14 +36,6 @@
 
 ---
 
-### 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParasRajput810&show_icons=true&theme=blueberry" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasRajput810&theme=blueberry" alt="GitHub Streak" height="165">
-</p>
-
----
 
 ### 📈 Top Languages
 
